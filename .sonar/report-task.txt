@@ -1,0 +1,6 @@
+projectKey=letswork
+serverUrl=http://localhost:8081
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:8081/dashboard/index/letswork
+ceTaskId=AW1cPiuO1kRxpUQn17B1
+ceTaskUrl=http://localhost:8081/api/ce/task?id=AW1cPiuO1kRxpUQn17B1
